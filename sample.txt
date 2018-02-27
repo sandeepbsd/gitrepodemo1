@@ -1,4 +1,8 @@
 this is my first file
 hai how r u
+<<<<<<< HEAD
 this is from dev branh
 jkansfkjnsdklnf
+=======
+wadfadgsefhghg from dev
+>>>>>>> dev
